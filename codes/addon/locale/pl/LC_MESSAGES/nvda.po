@@ -1,0 +1,55 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: 'nvda-translations@freelists.org'\n"
+"POT-Creation-Date: 2018-07-09 21:22+0200\n"
+"PO-Revision-Date: 2018-07-09 21:42+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.10\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
+
+#: addon\GlobalPlugins\copy.py:20
+msgid "copy"
+msgstr "kopiuj"
+
+#: addon\GlobalPlugins\cut.py:17
+msgid "cut"
+msgstr "wytnij"
+
+#: addon\GlobalPlugins\pas.py:17
+msgid "paste"
+msgstr "wklej"
+
+#: addon\GlobalPlugins\cancel.py:7
+msgid "undu"
+msgstr "cofnij"
+
+#: addon\GlobalPlugins\selectall.py:11
+msgid "SelectAll"
+msgstr "zaznacz wszystko"
+
+#: addon\GlobalPlugins\prntscr.py:17
+msgid "PrintScreen"
+msgstr "PrintScreen"
+
+#. Add-on description
+#. TRANSLATORS: Summary for this add-on to be shown on installation and add-on informaiton.
+#: buildVars.py:13
+msgid "sounds by keyboard events"
+msgstr "dźwięki zdarzeń"
+
+#. Add-on description
+#. Translators: Long description to be shown for this add-on on installation and add-on information
+#: buildVars.py:16
+msgid ""
+"plays sounds by operations with clipboard and some other keyboard events"
+msgstr ""
+"Odtwarza dźwięki zdarzeń dla schowka i niektórych innych zdarzeń "
+"klawiaturowych"
