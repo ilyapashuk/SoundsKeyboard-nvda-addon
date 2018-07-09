@@ -1,0 +1,55 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the 'SoundsKeyboard' package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 'SoundsKeyboard' '2.4'\n"
+"Report-Msgid-Bugs-To: 'nvda-translations@freelists.org'\n"
+"POT-Creation-Date: 2018-07-09 20:21+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: addon\GlobalPlugins\copy.py:20
+msgid "copy"
+msgstr ""
+
+#: addon\GlobalPlugins\cut.py:17
+msgid "cut"
+msgstr ""
+
+#: addon\GlobalPlugins\pas.py:17
+msgid "paste"
+msgstr ""
+
+#: addon\GlobalPlugins\cancel.py:7
+msgid "undu"
+msgstr ""
+
+#: addon\GlobalPlugins\selectall.py:11
+msgid "SelectAll"
+msgstr ""
+
+#: addon\GlobalPlugins\prntscr.py:17
+msgid "PrintScreen"
+msgstr ""
+
+#. Add-on description
+#. TRANSLATORS: Summary for this add-on to be shown on installation and add-on informaiton.
+#: buildVars.py:13
+msgid "sounds by keyboard events"
+msgstr ""
+
+#. Add-on description
+#. Translators: Long description to be shown for this add-on on installation and add-on information
+#: buildVars.py:16
+msgid ""
+"plays sounds by operations with clipboard and some other keyboard events"
+msgstr ""
