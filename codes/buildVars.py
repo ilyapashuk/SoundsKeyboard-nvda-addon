@@ -15,7 +15,7 @@ addon_info = {
 	# Translators: Long description to be shown for this add-on on installation and add-on information
 	"addon-description" : _("plays sounds by operations with clipboard and some other keyboard events"),
 	# version
-	"addon-version" : "2.4",
+	"addon-version" : "2.5",
 	# Author(s)
 	"addon-author" : "ilyapashuk",
 # URL for the add-on documentation support
